@@ -1,0 +1,24 @@
+{
+  "name": "my_marcket_project",
+  "version": "1.0.0",
+  "description": "my_marcket_project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon -e js,html server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimhyeonsol/my_marcket_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimhyeonsol/my_marcket_project/issues"
+  },
+  "homepage": "https://github.com/kimhyeonsol/my_marcket_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
